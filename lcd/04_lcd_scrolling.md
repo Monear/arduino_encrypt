@@ -1,6 +1,3 @@
-## 04_LCD_SCROLLING.MD
-
-```markdown
 # LCD Scrolling Text Guide
 
 ## Basic Text Scrolling

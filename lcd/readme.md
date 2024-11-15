@@ -8,7 +8,7 @@ This folder provides comprehensive guides on interfacing a 16×2 LCD display wit
 
 1. [LCD Basics](./01_lcd_basics.md) - Understanding LCD displays
 2. [LCD Wiring](./02_lcd_wiring.md) - Hardware setup and connections
-3. [LCD Programming Guide](./03_lcd_programmming.md) - Getting started with code
+3. [LCD Programming Guide](./03_lcd_programming.md) - Getting started with code
 4. [LCD Scrolling Text Guide](./04_lcd_scrolling.md) - Text animation techniques
 5. [Custom Characters Guide](./05_lcd_custom_chars.md) - Creating custom symbols
 6. [Advanced Features](./06_lcd_advanced.md) - Advanced LCD programming
