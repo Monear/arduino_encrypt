@@ -6,13 +6,13 @@ This folder provides comprehensive guides on interfacing a 16×2 LCD display wit
 
 ## Table of Contents
 
-1. [LCD Basics](./01_LCD_BASICS.md) - Understanding LCD displays
-2. [LCD Wiring](./02_LCD_WIRING.md) - Hardware setup and connections
-3. [LCD Programming Guide](./03_LCD_PROGRAMMING.md) - Getting started with code
-4. [LCD Scrolling Text Guide](./04_LCD_SCROLLING.md) - Text animation techniques
-5. [Custom Characters Guide](./05_LCD_CUSTOM_CHARS.md) - Creating custom symbols
-6. [Advanced Features](./06_LCD_ADVANCED.md) - Advanced LCD programming
-7. [Troubleshooting](./07_LCD_TROUBLESHOOTING.md) - Common issues and fixes
+1. [LCD Basics](./01_lcd_basics.md) - Understanding LCD displays
+2. [LCD Wiring](./02_lcd_wiring.md) - Hardware setup and connections
+3. [LCD Programming Guide](./03_lcd_programmming.md) - Getting started with code
+4. [LCD Scrolling Text Guide](./04_lcd_scrolling.md) - Text animation techniques
+5. [Custom Characters Guide](./05_lcd_custom_chars.md) - Creating custom symbols
+6. [Advanced Features](./06_lcd_advanced.md) - Advanced LCD programming
+7. [Troubleshooting](./07_lcd_troubleshooting.md) - Common issues and fixes
 
 ## Quick Start
 
@@ -43,3 +43,6 @@ Project Requirements:
 - 220Ω resistor (for backlight)
 - Breadboard
 
+
+Refrences:
+- [Arduino LCD Displays Documentation](https://docs.arduino.cc/learn/electronics/lcd-displays/)
